@@ -8214,7 +8214,7 @@ akl(){var s=t.N,r=t.s,q=t.Wo
 q=new A.t8(A.amg(A.A(s,s),s,s),A.amg(A.A(s,s),s,s),A.pQ(A.b([],r),s),A.pQ(A.b([],r),s),A.pQ(A.b([],r),s),A.pQ(A.b([],r),s),A.b([],t.EH),A.e_(null,null,null,t.X,t.xW),new A.hD(q),new A.hD(q),!1,!1)
 q.qG()
 return q},
-amP(){var s,r,q,p=A.atx("https://3.81.106.216",B.AG,B.kB),o=new A.U5($,new A.ED(A.b([B.xQ],t.i6)),$,new A.Wk(51200),!1)
+amP(){var s,r,q,p=A.atx("https://www.dingga.shop",B.AG,B.kB),o=new A.U5($,new A.ED(A.b([B.xQ],t.i6)),$,new A.Wk(51200),!1)
 o.M5$=p
 o.M6$=new A.Sg(A.aR(t.lZ))
 p=t.z
